@@ -1,5 +1,5 @@
-Hello there, I am Diamond
-
+Hello :) <!-- there, I am Diamond -->
+<!--
 -- Bio --
 
 Age: 23 Years Old
@@ -19,3 +19,4 @@ Uninterested in AI, Web Development, etc...
 Programming Languages: C, Python
 
 OS: Ubuntu
+-->
