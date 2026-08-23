@@ -8,6 +8,7 @@ It depends, idk...
 
 ## Current Machines
 
+- ***MSI Modern 14(B4MW MS-14DK)*** - *CachyOS* / *128GB* / *8GB(dual channel 4GB mem stick and spare 8GB mem stick)*
 - ***Lenovo V110-15IAP*** - *Linux Mint* / *512GB* / *4GB*
 - ***PlayStation 4(CUH-1116A)*** - *FW 13.00* / *CachyOS Light* / *1TB* / *8GB*
 - ***PlayStation 5(CFI-2018)*** - *FW 12.40* / *1TB* / *16GB*
